@@ -1,0 +1,8 @@
+@import url('reset.css');
+@import url('font.css');
+@import url('layouts.css');
+
+body {
+    font-family: 'Geometria', sans-serif;
+    font-weight: 500;
+}
